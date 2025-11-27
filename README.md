@@ -55,9 +55,16 @@ npm или yarn
 #### Автор - aleksey-zorin
 
 ##### Пример работы приложения(см. скриншоты)
+<img width="1005" height="719" alt="image" src="https://github.com/user-attachments/assets/560aa48a-095a-460a-bda7-01923dabe0d8" />
 <img width="1042" height="812" alt="image" src="https://github.com/user-attachments/assets/824fe09f-6ec2-41fd-8a69-2599a8601b4e" />
 <img width="1021" height="715" alt="image" src="https://github.com/user-attachments/assets/37c2acd2-0596-4586-b20c-9392f3270841" />
 <img width="998" height="763" alt="image" src="https://github.com/user-attachments/assets/a420d2cc-41f4-4381-a352-1615ee198fc8" />
+<img width="1051" height="777" alt="image" src="https://github.com/user-attachments/assets/5f28df54-92d5-4d78-9069-644c51b9c263" />
+<img width="1031" height="727" alt="image" src="https://github.com/user-attachments/assets/7c874f15-ddcd-4fb6-b2a3-fa5ce3f21b89" />
+
+
+
+
 
 
 

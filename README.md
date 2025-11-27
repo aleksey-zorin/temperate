@@ -54,6 +54,10 @@ npm или yarn
 
 #### Автор - aleksey-zorin
 
+##### Пример работы приложения(см. скриншоты)
+<img width="1042" height="812" alt="image" src="https://github.com/user-attachments/assets/824fe09f-6ec2-41fd-8a69-2599a8601b4e" />
+<img width="1021" height="715" alt="image" src="https://github.com/user-attachments/assets/37c2acd2-0596-4586-b20c-9392f3270841" />
+<img width="998" height="763" alt="image" src="https://github.com/user-attachments/assets/a420d2cc-41f4-4381-a352-1615ee198fc8" />
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
